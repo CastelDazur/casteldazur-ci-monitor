@@ -6,7 +6,7 @@ This public repo is the sanitized build-in-public vitrine for our first product:
 
 ---
 
-## What this is
+## What this ish
 A weekly competitive intelligence workflow designed for traceability and governance:
 - No proof → no claim
 - Coverage Report (honest limits, explicit unknowns)
@@ -61,6 +61,7 @@ They are designed for demo packs using synthetic/mock inputs (no real sources).
 ## Build log
 - Weekly notes: docs/updates/
 - Issues labeled weekly-log (short status + decisions)
+- Week 02: docs/updates/week-02.md
 
 ---
 
