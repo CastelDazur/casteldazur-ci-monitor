@@ -1,4 +1,7 @@
 # CastelDazur CI Monitor
+
+> **Note:** This repository contains documentation and architecture specifications only — no source code is included. The actual CI Monitor implementation is in a private repository.
+
 **CastelDazur Systems** builds local-first AI systems on your hardware.  
 This public repo is the sanitized build-in-public vitrine for our first product: CI Monitor.
 
