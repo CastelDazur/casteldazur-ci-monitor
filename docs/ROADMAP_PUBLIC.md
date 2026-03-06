@@ -97,3 +97,19 @@ Open a GitHub issue titled:
 **"Pilot request — CI Monitor"**
 
 Keep details high-level in public; specifics can be handled privately.
+
+---
+
+## Progress tracker (as of Week 03)
+
+| Milestone | Status | Notes |
+|-----------|--------|-------|
+| M1 — Public foundation | ✅ Complete | Docs set shipped, weekly update structure live |
+| M2 — Report skeleton + governance | ✅ Complete | Export rules, language rules, operational boundaries defined |
+| M3 — Evidence & change-tracking | 🔄 In progress | Config schema done, dry-run on synthetic pages passed, diagrams added |
+| M4 — Hardware baseline | 🔜 Planned | Dependent on hardware assembly |
+| M5 — Private pilot readiness | 🔜 Planned | Waiting for M3 + M4 |
+
+> Last updated: Week 03 build log — see [`docs/updates/week-03.md`](updates/week-03.md)
+
+Keep details high-level in public; specifics can be handled privately.
